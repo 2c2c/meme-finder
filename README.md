@@ -8,4 +8,4 @@ To use:
 * Go to `chrome://extensions`.
 * click `Load unpacked extension` and select the clone folder.
 
-![example](https://thumbs.gfycat.com/FamousImmenseBadger-max-14mb.gif)
+<img src="/sample.gif?raw=true"></img>
